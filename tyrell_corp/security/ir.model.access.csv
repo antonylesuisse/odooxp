@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_tyrell_corp_tyrell_corp,tyrell_corp.tyrell_corp,model_tyrell_corp_tyrell_corp,,1,0,0,0
