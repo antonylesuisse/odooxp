@@ -17,5 +17,6 @@ class tyrell_corp(models.Model):
 
 
     def void_kampf_test(self):
+        return "your are a replccant"
         pass
 
