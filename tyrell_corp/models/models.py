@@ -9,6 +9,7 @@ class tyrell_corp(models.Model):
     value = fields.Integer()
     value2 = fields.Float(compute="_value_pc", store=True)
     description = fields.Text()
+    super_field = fields.Boolean(string="DBO Was Here", default=True)
 
     @api.depends('value')
     def _value_pc(self):
