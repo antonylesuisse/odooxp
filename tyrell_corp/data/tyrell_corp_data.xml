@@ -1,0 +1,19 @@
+<odoo>
+    <data>
+        <record id="fme" model="res.partner">
+            <field name="name">Fabien Meghazi</field>
+        </record>
+        <record id="dle" model="res.partner">
+            <field name="name">Denis Ledoux</field>
+        </record>
+        <record id="dve" model="res.partner">
+            <field name="name">Denis Vermylen</field>
+        </record>
+        <record id="dbo" model="res.partner">
+            <field name="name">Damien Bouvy</field>
+        </record>
+        <record id="al" model="res.partner">
+            <field name="name">Antony Lesuisse</field>
+        </record>
+    </data>
+</odoo>
